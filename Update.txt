@@ -1,5 +1,3 @@
-Box ESP🥰,
-Aimbot Lock Bug🥰,
-New Options🥸,
-Menu Changes👻,
-This Message System👀
+Fixed ESP🥰,
+Aimbot Offset🥰,
+New Options🥸
