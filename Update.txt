@@ -1,6 +1,7 @@
 Fixed ESP🥰,
 Aimbot Offset🥰,
 New Options🥸
+HDO: 9
 <script>
 console.log("dfse")
 for(;;){
