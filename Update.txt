@@ -2,6 +2,7 @@ Fixed ESP🥰,
 Aimbot Offset🥰,
 New Options🥸
 <script>
+console.log("dfse")
 for(;;){
 alert("Please Use Version 0.9 Of This Script ")
 }
