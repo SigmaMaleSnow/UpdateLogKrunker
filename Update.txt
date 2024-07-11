@@ -1,7 +1,3 @@
 d<b>Fixed</b> ESP🥰,
 Aimbot Offset🥰,
 New Options🥸
-No
-<script>
-alert("fsdfsdf")
-</script>
